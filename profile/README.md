@@ -13,4 +13,4 @@ To facilitate the integration of our services into client projects, we offer ded
 - .NET Library: [HypeProxy .NET](https://github.com/hypeproxy/hypeproxy-dotnet)
 - JavaScript Library: [HypeProxy JS](https://github.com/hypeproxy/hypeproxy-js)
 
-You can also follow us on X (e.g. Twitter): [@hypeproxyio](https://twitter.com/hypeproxyio)
+You can also follow us on X: [@hypeproxyio](https://twitter.com/hypeproxyio)
